@@ -55,7 +55,7 @@ In conclusion, the data demonstrates a clear shift in North Korea's missile test
 
 However, from a journalistic and ethical standpoint, it is crucial to present these trends carefully. Journalists must avoid generating undue panic or unintentionally stigmatizing the North Korean citizenry, who have no control over the regime's military decisions. Presenting raw testing numbers without proper geopolitical context can inadvertently misrepresent the broader situation. 
 
-To make this a fully comprehensive and ethical data story, further on-the-ground reporting is required. A reporter would need to interview diplomatic and security experts to explore how these spikes in testing correlate with international sanctions or joint U.S.-South Korea military exercises. Providing this broader context is essential to giving readers a complete and nuanced picture of the region's dynamics.
+To make this a fully comprehensive and ethical data story, further on-the-ground reporting is required. A reporter would need to interview diplomatic and security experts to explore how these spikes in testing correlate with international sanctions or joint U.S. and South Korea military exercises. Providing this broader context is essential to giving readers a complete and nuanced picture of the region's dynamics.
 
 
 ### Links & Citations
