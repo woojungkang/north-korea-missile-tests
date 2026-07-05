@@ -26,7 +26,7 @@ When examining the entire history of North Korea's missile program, one specific
 
 According to the data, Short-Range Ballistic Missiles (SRBMs), such as the Scud and KN-series models, account for the vast majority of all recorded tests. While they are limited in range compared to intercontinental weapons, SRBMs pose a direct, existential threat to the Korean peninsula and nearby neighbors. The sheer volume of SRBM tests highlights Pyongyang's continuous focus on developing and refining tactical weapons for regional intimidation. 
 
-However, looking only at these cumulative totals obscures a much more dangerous technological evolution happening beneath the surface.
+However, cumulative totals alone do not capture how North Korea's missile program has evolved over time. Looking at missile types by year reveals important changes in testing priorities.
 
 ## 3. How has the mix of missile types changed over time?
 
@@ -39,11 +39,11 @@ While Short-Range Ballistic Missiles (SRBMs) account for the largest share of to
 
 However, as the stacked column chart demonstrates, the diversity of the arsenal has expanded significantly over the last decade. Recent years have seen the alarming introduction and increasing frequency of Medium-Range Ballistic Missiles (MRBMs), Submarine-Launched Ballistic Missiles (SLBMs), and, ultimately, Intercontinental Ballistic Missiles (ICBMs) capable of reaching the United States mainland. 
 
-This changing composition in the dataset proves that North Korea's military strategy has transitioned from maintaining a localized, regional threat to aggressively building a multi-layered, advanced nuclear deterrent with global reach.
+This changing composition suggests that North Korea's missile program has expanded beyond short-range systems toward a broader range of missile capabilities, including longer-range weapons such as ICBMs.
 
 ## Methodology & Data Limitations
 
-This analysis relies on the North Korean Missile Test, maintained by the James Martin Center for Nonproliferation Studies (CNS). While CNS is a highly reputable academic research institution, analyzing data from one of the world's most isolated states presents inherent challenges. The database relies heavily on unclassified intelligence, news reports, and official statements from the U.S., South Korea, and Japan. Consequently, there can be conflicting assessments regarding a specific missile's type or its ultimate test outcome. 
+This analysis relies on the North Korean Missile Test Database, maintained by the James Martin Center for Nonproliferation Studies (CNS). While CNS is a highly reputable academic research institution, analyzing data from one of the world's most isolated states presents inherent challenges. The database relies heavily on unclassified intelligence, news reports, and official statements from the U.S., South Korea, and Japan. Consequently, there can be conflicting assessments regarding a specific missile's type or its ultimate test outcome. 
 
 Additionally, the original dataset's date formats were inconsistent. To accurately analyze the timeline and generate the charts, the dates were manually cleaned and standardized into a new "Year" column using spreadsheet formulas.
 
