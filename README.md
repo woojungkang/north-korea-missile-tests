@@ -57,3 +57,8 @@ However, from a journalistic and ethical standpoint, it is crucial to present th
 
 To make this a fully comprehensive and ethical data story, further on-the-ground reporting is required. A reporter would need to interview diplomatic and security experts to explore how these spikes in testing correlate with international sanctions or joint U.S.-South Korea military exercises. Providing this broader context is essential to giving readers a complete and nuanced picture of the region's dynamics.
 
+
+### Links & Citations
+* **Data Analysis:** [Link to Google Sheets Analysis](https://docs.google.com/spreadsheets/d/1EsUxE81bj29tm5B84FZ6956a_C19IgjmLnco1Xd0Ud8/edit?gid=2021648324#gid=2021648324)
+* **Original Data Source:** [North Korean Missile Test Database (CNS / NTI)](https://www.nti.org/analysis/articles/cns-north-korea-missile-test-database/)
+* **CSV Download:** [Kaggle Dataset](https://www.kaggle.com/datasets/mexwell/north-korea-missile-test-database?select=Missile+Tests-Tabelle+1.csv)
