@@ -43,7 +43,7 @@ This changing composition in the dataset proves that North Korea's military stra
 
 ## Methodology & Data Limitations
 
-This analysis relies on the [North Korean Missile Test Database](https://www.kaggle.com/datasets/mexwell/north-korea-missile-test-database?select=Missile+Tests-Tabelle+1.csv), maintained by the James Martin Center for Nonproliferation Studies (CNS). While CNS is a highly reputable academic research institution, analyzing data from one of the world's most isolated states presents inherent challenges. The database relies heavily on unclassified intelligence, news reports, and official statements from the U.S., South Korea, and Japan. Consequently, there can be conflicting assessments regarding a specific missile's type or its ultimate test outcome. 
+This analysis relies on the North Korean Missile Test, maintained by the James Martin Center for Nonproliferation Studies (CNS). While CNS is a highly reputable academic research institution, analyzing data from one of the world's most isolated states presents inherent challenges. The database relies heavily on unclassified intelligence, news reports, and official statements from the U.S., South Korea, and Japan. Consequently, there can be conflicting assessments regarding a specific missile's type or its ultimate test outcome. 
 
 Additionally, the original dataset's date formats were inconsistent. To accurately analyze the timeline and generate the charts, the dates were manually cleaned and standardized into a new 'Year' column using spreadsheet formulas.
 
